@@ -1,1 +1,1 @@
-# GPC-Net
+The source code and datasets for the paper 'GPC-Net: Global Semantic Calibration and Structural Interaction for Relational Triple Extraction' will be released in this repository upon the acceptance of the manuscript."
