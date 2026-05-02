@@ -1,1 +1,1 @@
-The source code and datasets for the paper 'GPC-Net: Global Semantic Calibration and Structural Interaction for Relational Triple Extraction' will be released in this repository upon the acceptance of the manuscript."
+This repository is the official implementation site for the paper “GPC-Net: Global Semantic Calibration and Structural Interaction for Relational Triple Extraction”. The source code, datasets, configuration files, and running instructions will be released here upon acceptance of the manuscript.
